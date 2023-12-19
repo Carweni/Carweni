@@ -1,8 +1,20 @@
 ### Hi there !
 
-I'm currently a Computer Engineering student at UTFPR (Universidade Tecnológica Federal do Paraná). My experiences with programming languages have been with C, Python, Java and Kotlin. I have some experiences with eletronics as well, specially Arduino-oriented ones.
+I'm currently a Computer Engineering student at UTFPR (Universidade Tecnológica Federal do Paraná).
 
-### Social Media:
+### Technologies:
+
+<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> 
+<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+
+### GitHub Stats:
+
+<img src="https://github-readme-stats.vercel.app/api?username=carweni&rank_icon=github&theme=react&include_all_commits=true&count_private=true" height="150em" />     <img align-items:center justify-content:center src="https://github-readme-stats.vercel.app/api/top-langs/?username=carweni&theme=react" />
+
+### Contact Info:
 <div id="header" align="center">
   <img src = "https://media.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif" width="100"/>
 </div>
@@ -10,6 +22,9 @@ I'm currently a Computer Engineering student at UTFPR (Universidade Tecnológica
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/caroline-morelli-da-silveira-2b4979235/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href = "mailto:caroline_ms2004@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
 
