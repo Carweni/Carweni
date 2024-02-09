@@ -1,6 +1,6 @@
-### Hi there !
+### Hello there !
 
-I'm currently a Computer Engineering student at UTFPR (Universidade Tecnológica Federal do Paraná).
+ 💻 I'm currently a Computer Engineering student at UTFPR (Universidade Tecnológica Federal do Paraná).
 
 ### Technologies:
 
@@ -15,7 +15,10 @@ I'm currently a Computer Engineering student at UTFPR (Universidade Tecnológica
 
 ### GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=carweni&rank_icon=github&theme=react&include_all_commits=true&count_private=true" height="150em" />     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carweni&layout=compact&theme=react" width="273em" />
+<div align="center" justify-items="space-between">
+  <img src="https://github-readme-stats.vercel.app/api?username=Carweni&rank_icon=github&theme=react&include_all_commits=true&count_private=true" height="150em" />    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carweni&layout=compact&theme=react" height="150em" />
+</div>
 
 ### Contact Info:
 <div id="header" align="center">
