@@ -1,7 +1,9 @@
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGV5NHB5dnp0MGg4eWs1YmQyNWo5cmJqZmlnYWxodXdtNGtscnV3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I2nZMy0sI0ySA/giphy.gif" alt="Coder GIF" width="150" height="120">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGV5NHB5dnp0MGg4eWs1YmQyNWo5cmJqZmlnYWxodXdtNGtscnV3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I2nZMy0sI0ySA/giphy.gif" alt="Coder GIF" width="220" height="180">
 
 ## ${\color{#4B8888}Hello, \space world!}$ 
- ${\color{#2E5757}I'm \space currently \space a \space Computer \space Engineering \space student \space at \space UTFPR \space (Universidade \space Tecnológica \space Federal \space do \space Paraná).}$
+ ${\color{#2E5757}💻 I'm \space currently \space a \space Computer \space Engineering \space student \space at \space UTFPR.}$
+ 
+ ${\color{#2E5757}🌎 Paraná, \space Brazil.}$
 
 ###  ${\color{#4B8888}Tech \space Stack:}$ 
 
@@ -17,8 +19,8 @@
 ###  ${\color{#4B8888}GitHub \space Stats:}$ 
 
 <div align="center" justify-items="space-between">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carweni&rank_icon=github&theme=react&include_all_commits=true&count_private=true" height="150em" />    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carweni&layout=compact&theme=react" height="150em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Carweni&rank_icon=github&theme=react&include_all_commits=true&count_private=true&title_color=7FC9C9" height="150em" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carweni&layout=compact&title_color=7FC9C9&theme=react" height="150em" />
 </div>
 
 <div id="header" align="center">
