@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGV5NHB5dnp0MGg4eWs1YmQyNWo5cmJqZmlnYWxodXdtNGtscnV3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I2nZMy0sI0ySA/giphy.gif" alt="Coder GIF" width="200" height="170">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGV5NHB5dnp0MGg4eWs1YmQyNWo5cmJqZmlnYWxodXdtNGtscnV3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I2nZMy0sI0ySA/giphy.gif" alt="Coder GIF" width="150" height="120">
 
 ## ${\color{#4B8888}Hello, \space world!}$ 
  ${\color{#2E5757}I'm \space currently \space a \space Computer \space Engineering \space student \space at \space UTFPR \space (Universidade \space Tecnológica \space Federal \space do \space Paraná).}$
