@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGV5NHB5dnp0MGg4eWs1YmQyNWo5cmJqZmlnYWxodXdtNGtscnV3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I2nZMy0sI0ySA/giphy.gif" alt="Coder GIF" width="250" height="210">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGV5NHB5dnp0MGg4eWs1YmQyNWo5cmJqZmlnYWxodXdtNGtscnV3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I2nZMy0sI0ySA/giphy.gif" alt="Coder GIF" width="200" height="170">
 
 ## ${\color{#4B8888}Hello, \space world!}$ 
  ${\color{#2E5757}I'm \space currently \space a \space Computer \space Engineering \space student \space at \space UTFPR \space (Universidade \space Tecnológica \space Federal \space do \space Paraná).}$
@@ -32,7 +32,7 @@
   <a href = "mailto:caroline_ms2004@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <a ref = "https://www.instagram.com/carol_m.s._/">
+  <a href = "https://www.instagram.com/carol_m.s._/">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
 </div>
