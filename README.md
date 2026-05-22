@@ -20,9 +20,8 @@
 
 ###  ${\color{#4B8888}GitHub \space Stats:}$ 
 
-<div align="center" justify-items="space-between">
-  <img src="https://github-readme-stats.vercel.app/api?username=Carweni&rank_icon=github&theme=react&include_all_commits=true&count_private=true&title_color=7FC9C9" height="150em" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carweni&layout=compact&title_color=7FC9C9&theme=react" height="150em" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Carweni/Carweni/main/github-metrics.svg" alt="GitHubStats" />
 </div>
 
 <div id="header" align="center">
